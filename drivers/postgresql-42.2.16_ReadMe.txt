@@ -1,0 +1,1 @@
+CTRL+SHIFT+ALT+S - > libraries (слева) нажать + и добавить .jar файл c драйвером.
